@@ -1,4 +1,4 @@
-print("Welcome to NeuralNine YouTube Downloader and Converter v0.2 Alpha")
+print("Welcome to YouTube Downloader and Converter v0.2 Alpha")
 print("Loading...")
 
 import pytube
@@ -15,7 +15,7 @@ What do you want?
 Downloading copyrighted YouTube videos is illegal!
 I am not responsible for your downloads! Go at your own risk!
 
-Copyright (c) NeuralNine 2020
+Copyright (c) 2020
 ''')
 
 choice = input("Choice: ")
